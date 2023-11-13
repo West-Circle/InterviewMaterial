@@ -1,11 +1,23 @@
 # Java Design Pattern
 
 - Creational
-  - Singleton (单例)
-  - Factory (工厂方法)
-  - Abstract Factory (抽象工厂)
-  - Prototype (clone)
+  - Singleton (单例) - single alone~
+  - Factory (工厂方法) - one factory creating multiple product.
+  - Abstract Factory (抽象工厂) - same product but create by different multiple factories.
+  - Prototype (clone) - Copy cat :)
+  - Builder (建造者) Director - Builder - Product
 - Structural
-  - Proxy (代理模式)
+  - Adapter (适配器) Target Adapter implement Adaptee request
+  - Bridge (桥接模式) ConcreteAbstraction implement the operation of the ConcreteImplementor. 
+  - Composite (组合) CEO and his subordinates
+  - Decorator (装饰) Pizza - Plain Pizza + Cheese
+  - Facade (外观) ShapeMaker draw Circle/Rectangle/Square shape
+  - Flyweight (享元模式) Reduce creating new object, using hashmap to prevent it, if there exist the object then reuse it.
+  - Proxy (代理模式) help real subject doing request
 - Behavioral
-  - Observer (观察者模式)
+  - Chain Of Responsibility (责任链) handle request depends on request type
+  - Command (命令) Invoker make a command to receiver, then receiver do the action
+  - Iterator (迭代器) like container 
+  - Observer (观察者模式) one to many, update status of observer
+  - Strategy (策略) set a context to execute different strategy
+  - Template Method (模板方法) like a game to handle the full process, just to override the initialize, start and end.
