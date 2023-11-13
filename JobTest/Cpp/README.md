@@ -1,5 +1,6 @@
 # Compile Method
 - g++ -o main.exe main.cpp
+- **type** ./main **in terminal**
 
 # Program Files
 - ArrayPointerPrint.cpp : using array to print elements and pointer points to array to print element.
