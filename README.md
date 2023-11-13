@@ -7,4 +7,4 @@ As a fresh graduate from Zhejiang University (浙江大学), I would like to sha
 
 Contact: 📫yuan_0006@hotmail.com, 📱: +60-1110680351 (same as Whatsapp)
 
-Updated - 2023/11/13 (YYYY/MM/DD)
+Updated - 2023/11/13 (YYYY/MM/DD) 21:56 (hh:mm, in GMT+8)
