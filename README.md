@@ -5,7 +5,7 @@ As a fresh graduate from Zhejiang University (浙江大学), I would like to sha
 
 **STILL LOOKING FOR JOB**
 
-**Repository under development**
+**Repository under development⌨**
 
 Contact: 📫yuan_0006@hotmail.com, 📱: +60-1110680351 (same as Whatsapp)
 
