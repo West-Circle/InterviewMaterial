@@ -1,4 +1,4 @@
-# Compile
+# Compile Method
 - g++ -o main.exe main.cpp
 
 # Program Files
