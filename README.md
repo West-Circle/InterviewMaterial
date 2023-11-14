@@ -14,3 +14,5 @@ Contact: 📫yuan_0006@hotmail.com, 📱: +60-1110680351 (same as Whatsapp)
 Updated - **2023/11/13** (YYYY/MM/DD) **21:56** (hh:mm, in GMT+8)
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FWest-Circle%2FInterviewMaterial&label=Visitor%20Today&countColor=%23ba68c8)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWest-Circle%2FInterviewMaterial&label=Visitor%20Today&countColor=%23ba68c8)
