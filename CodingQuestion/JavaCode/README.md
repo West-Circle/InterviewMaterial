@@ -7,3 +7,6 @@
 - balanceBracket : using stack to check the parentheses is balance or not.
 - Sorting : sorting algorithm such as bubblesort, quicksort, mergesort and also binary search for index in array
 - StringTest : compare the string using == and equals()
+- Palindrome : check the string is palindrome or not
+- TreeTraversal : binary tree traversal algorithm : preorder, inorder, postorder
+- ReversePointer : reverse LinkedList (easy Leetcode question) 
