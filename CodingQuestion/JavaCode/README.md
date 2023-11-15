@@ -12,3 +12,4 @@
 - ReversePointer : reverse LinkedList (easy Leetcode question) 
 - RepeatedWord : find the the word having the most repeated character counts from a string, and reverse the word
 - ClosestFibonacci : find the closest fibonacci number from the sum of an integer array and find N fibonacci numbers
+- PrimeNumber : check is prime number or not
