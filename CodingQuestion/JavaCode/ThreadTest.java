@@ -13,9 +13,19 @@ public class ThreadTest {
             System.out.println("Thread t1 is running");
         });
         Thread t2 = new Thread(() -> {
+            try {
+                t1.join();
+            } catch (Exception e) {
+                System.out.println(e);
+            }
             System.out.println("Thread t2 is running");
         });
         Thread t3 = new Thread(() -> {
+            try {
+                t2.join();
+            } catch (Exception e) {
+                System.out.println(e);
+            }
             System.out.println("Thread t3 is running");
         });
         t1.start();
@@ -29,5 +39,12 @@ public class ThreadTest {
             }
         });
         tr.start();
+        Thread tr2 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("ThreadRunnable3 is running");
+            }
+        });
+        tr2.start();
     }
 }

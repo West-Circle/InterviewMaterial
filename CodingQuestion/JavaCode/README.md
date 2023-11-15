@@ -10,3 +10,4 @@
 - Palindrome : check the string is palindrome or not
 - TreeTraversal : binary tree traversal algorithm : preorder, inorder, postorder
 - ReversePointer : reverse LinkedList (easy Leetcode question) 
+- RepeatedWord : find the the word having the most repeated character counts from a string, and reverse the word
