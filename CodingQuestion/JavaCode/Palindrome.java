@@ -6,7 +6,7 @@ import java.util.Map;
 public class Palindrome {
     public static boolean isPalindrome(String str) {
         Map<Character, Integer> map = new HashMap<>();
-        for (char c : str.toCharArray()) {
+        for (Character c : str.toCharArray()) {
             map.put(c, map.getOrDefault(c, 0) + 1);
         }
         int oddCount = 0;
